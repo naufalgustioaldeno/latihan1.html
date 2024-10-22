@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Naufal Gustio Aldeno</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Naufal Gustio Aldeno</h1>
+    <div class="contact-info">
+        <p>Email: naufal.gustio@email.com</p>
+        <p>Telepon: 0123-456-789</p>
+        <p>Alamat: Jalan Contoh No. 123, Kota, Negara</p>
+    </div>
+
+    <div class="section">
+        <h2>Profil</h2>
+        <p>Seorang profesional muda dengan keahlian dalam pengembangan web dan desain grafis, berorientasi pada hasil dan mampu bekerja dalam tim.</p>
+    </div>
+
+    <div class="section">
+        <h2>Pendidikan</h2>
+        <ul>
+            <li><strong>Sarjana Teknologi Informasi, Universitas Contoh</strong> - 2018 - 2022</li>
+            <li><strong>SMK Teknik Komputer, Sekolah Menengah Contoh</strong> - 2015 - 2018</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Pengalaman Kerja</h2>
+        <ul>
+            <li><strong>Web Developer, Perusahaan Teknologi ABC</strong> - 2022 - Sekarang
+                <ul>
+                    <li>Merancang dan mengembangkan aplikasi web menggunakan HTML, CSS, dan JavaScript.</li>
+                    <li>Bekerja sama dengan tim untuk meningkatkan pengalaman pengguna.</li>
+                </ul>
+            </li>
+            <li><strong>Intern, Perusahaan Desain XYZ</strong> - 2021 - 2022
+                <ul>
+                    <li>Membantu dalam pembuatan konten digital dan desain grafis.</li>
+                    <li>Berpartisipasi dalam pertemuan klien untuk memahami kebutuhan proyek.</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Keahlian</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>Desain Grafis (Photoshop, Illustrator)</li>
+            <li>Manajemen Proyek</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Referensi</h2>
+        <p>Referensi tersedia atas permintaan.</p>
+    </div>
+</div>
+
+</body>
+</html>
